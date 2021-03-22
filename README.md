@@ -40,8 +40,8 @@ The used file for Figure 1 is `full_diffusion_with_big_numbers_with_D.png`
 [`here`](https://github.com/TiKeil/Petrov-Galerkin-TR-RB-for-pde-opt/blob/master/notebooks/Lssc21_simulations/estimator_study/) where all trainings are performed and shown. 
 
 **Figure 3**: This result is based on starting value seed 9 (Starter9)
-[`here`](https://github.com/TiKeil/Petrov-Galerkin-TR-RB-for-pde-opt/blob/master/notebooks/Lssc21_simulations/optimization_results/). 
-The tables are also constructable in the corresponding `results/`.
+[`here`](https://github.com/TiKeil/Petrov-Galerkin-TR-RB-for-pde-opt/blob/master/notebooks/Lssc21_simulations/optimization_results/).
+The figure and the table can be constructed by the scripts in the corresponding `results/` directory.
 
 # Setup
 
